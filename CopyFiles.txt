@@ -1,0 +1,2 @@
+Copy a file 
+	cp /home/zelda/triforce.jpg /home/link/masterSword.jpg

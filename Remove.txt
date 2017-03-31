@@ -1,0 +1,6 @@
+Remove a file
+	rm fileName
+
+Remove a directory
+	rm -r directoryName 
+		-r indicates recursive removal
